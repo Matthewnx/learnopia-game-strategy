@@ -11,17 +11,14 @@
             "id": "eb83fb6415b87df1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 682.0820063694268,
-                  "y": 93.49999999999997,
-                  "zoom": -0.5441892368169325
-                }
+                "file": "جوایز فعالیت اموزشی.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "جوایز فعالیت اموزشی"
             }
           }
         ]
@@ -193,17 +190,17 @@
   },
   "active": "eb83fb6415b87df1",
   "lastOpenFiles": [
+    "بانک سوالات کویز.md",
     "ایده طراحی اصلی..md",
-    "Untitled.md",
-    "daily objectives.md",
-    "coin ability.md",
+    "پنل کاربر برای بازی..md",
     "قانون امتیاز دهیمون.md",
     "سیستم قلب دهی..md",
+    "سیستم level up.md",
+    "Untitled.canvas",
+    "daily objectives.md",
+    "coin ability.md",
     "جوایز فعالیت اموزشی.md",
-    "پنل کاربر برای بازی..md",
-    "بانک سوالات کویز.md",
     "leader board..md",
-    "duel.md",
-    "Untitled.canvas"
+    "duel.md"
   ]
 }
