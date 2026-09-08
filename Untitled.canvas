@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"45f241dc804d2914","type":"text","text":"fasl 1 dahom","x":-165,"y":47,"width":250,"height":60},
+		{"id":"3378621cc0c6ec2e","type":"text","text":"10 test","x":200,"y":-140,"width":250,"height":60},
+		{"id":"a18eb0362ce4d55c","type":"text","text":"answer = xp and coin and chest","x":537,"y":-213,"width":303,"height":60},
+		{"id":"54b6a2e7b29c053d","type":"text","text":"xp and coins logics","x":930,"y":-213,"width":250,"height":60},
+		{"id":"809d43363285f153","type":"file","file":"قانون امتیاز دهیمون.md","x":1100,"y":0,"width":400,"height":400},
+		{"id":"768bddebc353852d","x":655,"y":0,"width":400,"height":400,"type":"file","file":"daily objectives.md"}
+	],
+	"edges":[
+		{"id":"ca2d3fd9d0aa5ce6","fromNode":"45f241dc804d2914","fromSide":"right","toNode":"3378621cc0c6ec2e","toSide":"left"},
+		{"id":"5bce50f150eb79e7","fromNode":"3378621cc0c6ec2e","fromSide":"right","toNode":"a18eb0362ce4d55c","toSide":"left"},
+		{"id":"4dae8bf17f231269","fromNode":"a18eb0362ce4d55c","fromSide":"right","toNode":"54b6a2e7b29c053d","toSide":"left"},
+		{"id":"f1451ead694e421e","fromNode":"54b6a2e7b29c053d","fromSide":"bottom","toNode":"809d43363285f153","toSide":"top"},
+		{"id":"dfff887faa5f5560","fromNode":"54b6a2e7b29c053d","fromSide":"bottom","toNode":"768bddebc353852d","toSide":"top"}
+	]
+}
