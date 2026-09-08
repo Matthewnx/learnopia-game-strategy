@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "جوایز فعالیت اموزشی.md",
+                "file": "duel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "جوایز فعالیت اموزشی"
+              "title": "duel"
             }
           }
         ]
@@ -190,16 +190,17 @@
   },
   "active": "eb83fb6415b87df1",
   "lastOpenFiles": [
-    "بانک سوالات کویز.md",
+    "ایتم ها.md",
     "ایده طراحی اصلی..md",
-    "پنل کاربر برای بازی..md",
+    "پنل کاربر.md",
+    "سیستم level up.md",
+    "جوایز فعالیت اموزشی.md",
+    "بانک سوالات کویز.md",
     "قانون امتیاز دهیمون.md",
     "سیستم قلب دهی..md",
-    "سیستم level up.md",
     "Untitled.canvas",
     "daily objectives.md",
     "coin ability.md",
-    "جوایز فعالیت اموزشی.md",
     "leader board..md",
     "duel.md"
   ]
