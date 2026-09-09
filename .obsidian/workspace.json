@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "duel.md",
+                "file": "وجود بخش اموزشی.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "duel"
+              "title": "وجود بخش اموزشی"
             }
           }
         ]
@@ -190,18 +190,19 @@
   },
   "active": "eb83fb6415b87df1",
   "lastOpenFiles": [
-    "ایتم ها.md",
-    "ایده طراحی اصلی..md",
-    "پنل کاربر.md",
-    "سیستم level up.md",
-    "جوایز فعالیت اموزشی.md",
-    "بانک سوالات کویز.md",
-    "قانون امتیاز دهیمون.md",
-    "سیستم قلب دهی..md",
     "Untitled.canvas",
-    "daily objectives.md",
-    "coin ability.md",
+    "وجود بخش اموزشی.md",
     "leader board..md",
-    "duel.md"
+    "سیستم level up.md",
+    "coin ability.md",
+    "قانون امتیاز دهیمون.md",
+    "ایتم ها.md",
+    "daily objectives.md",
+    "duel.md",
+    "ایده طراحی اصلی..md",
+    "سیستم قلب دهی..md",
+    "جوایز فعالیت اموزشی.md",
+    "پنل کاربر.md",
+    "بانک سوالات کویز.md"
   ]
 }
